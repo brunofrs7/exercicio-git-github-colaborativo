@@ -10,3 +10,4 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 - maria paula
 - Beatriz
 - Miguel
+
