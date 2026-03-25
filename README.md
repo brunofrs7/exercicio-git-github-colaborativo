@@ -3,5 +3,4 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
-<<<<<<< HEAD
-- Filipe Cruz
+Filipe Cruz
