@@ -3,8 +3,9 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
-- Paula Guollo
--Rita
+- Rita
 - maria paula
 - Beatriz
 - Bárbara
+- Armando \0
+- (Vitor)
