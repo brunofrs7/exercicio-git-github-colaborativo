@@ -4,7 +4,7 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
  sofia
-- (Sofia)
+- Sofia
 - Miguel
 - Nuno Ferreira
 - Rita Silva
