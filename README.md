@@ -3,4 +3,5 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
+- maria paula
 - Beatriz
