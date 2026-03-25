@@ -3,11 +3,10 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
-<<<<<<< nunoFerreira
+- Miguel
 - Nuno Ferreira
-=======
 - Rita Silva
-Filipe Cruz
+- Filipe Cruz
 - Luana.matos
 
 - Leida
@@ -21,6 +20,5 @@ Filipe Cruz
 - Leandro
 - Bárbara
 - Armando \0
->>>>>>> main
 - (Vitor)
 - Miguel 

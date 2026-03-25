@@ -1,0 +1,4 @@
+# Sou o Miguel e tenho 28 anos.
+
+# O comando git ignore serve para passarmos um parâmetro que faça com que ao fazermos commit ou guardarmos ficheiros, os 
+ficheiros automáticos, gerados pelo programa, sejam logs, dependências, etc sejam ignorados.
