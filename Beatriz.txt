@@ -1,0 +1,4 @@
+Olá! Eu sou a Beatriz e amo gatos!
+
+.gitignore é um ficheiro que sinaliza para o Git quais ficheiros e/ou pastas devem ser ignorados/não rastreados, desta forma deixamos estes ficheiros/pastas fora do nosso repositório e o Git para de sinalizar que eles não estão trackeados. 
+Devemos usar quando queremos deixar ficheiros sensíveis, locais ou desnecessários fora do nosso repositório.
