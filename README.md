@@ -3,4 +3,7 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
-- (Adicionar o teu nome aqui)
+- Paula Guollo
+-Rita
+- maria paula
+- Beatriz
