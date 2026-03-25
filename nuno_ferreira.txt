@@ -1,0 +1,15 @@
+Nuno Ferreira
+49 anos
+Curioso por Natureza
+
+---------------------
+# Gitignore
+
+A .gitignore file tells Git which files and directories to ignore (not track). Here's a quick overview:
+
+# Comment
+*.log          # Ignore all .log files
+build/         # Ignore the build directory
+!important.log # Exception: don't ignore this file
+/config.env    # Ignore only in root directory
+**/temp        # Ignore "temp" in any subdirectory
