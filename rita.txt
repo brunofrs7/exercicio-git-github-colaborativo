@@ -1,0 +1,4 @@
+Biografia - exercício PL1
+olá sou a Rita
+gitignore - Especifica que arquivos intencionalmente não rastreados devem ser ignorados
+https://git-scm.com/docs/gitignore
