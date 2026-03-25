@@ -1,0 +1,2 @@
+Era pequenino e agora sou mais pequeno
+O arquivo .gitignore é usado para especificar arquivos e diretórios que o Git deve ignorar. Ele ajuda a evitar o rastreamento de arquivos desnecessários, como logs, arquivos temporários ou diretórios gerados automaticamente.
