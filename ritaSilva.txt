@@ -1,1 +1,5 @@
 Olá
+
+.gitignore é um ficheiro standard que serve para colocarmos lá dentro nomes de ficheiros e pastas (ex: .env), que contenham info que NÃO queremos partilhar no nosso código quando versionamos e fazemos push dele. 
+
+isto é especialmente importante para evitar que info sensível (passwords, emails de users, API keys) sejam partilhados (e roubados) por terceiros. 
