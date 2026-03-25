@@ -3,6 +3,8 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
+ sofia
+- Sofia
 - Miguel
 - Nuno Ferreira
 - Rita Silva
@@ -21,4 +23,4 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 - Bárbara
 - Armando \0
 - (Vitor)
-- Miguel 
+- Miguel
