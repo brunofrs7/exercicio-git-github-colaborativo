@@ -1,0 +1,4 @@
+olá
+
+GitIgnore
+ignorar ficheiros
