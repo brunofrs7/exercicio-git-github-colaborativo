@@ -1,0 +1,2 @@
+Eu sou brasileira.
+O Gitignore serve para selecionar e ignorar determinados ficheiros que ão serão úteis no meu commit.
