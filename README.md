@@ -7,3 +7,4 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 -Rita
 - maria paula
 - Beatriz
+- Bárbara
