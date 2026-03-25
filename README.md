@@ -5,7 +5,6 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 ## Participantes
 <<<<<<< nunoFerreira
 - Nuno Ferreira
-=======
 - Rita Silva
 Filipe Cruz
 - Luana.matos
