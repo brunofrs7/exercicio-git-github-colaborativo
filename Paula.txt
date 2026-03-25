@@ -1,0 +1,26 @@
+Never underestimate a squirrel… 🐿️ or anyone who can turn chaos into opportunity.
+Embora o meu perfil seja analítico, organizado e focado, sou também conhecida pela minha criatividade, otimismo e pensamento estratégico.
+
+Meu objetivo é claro: contribuir para decisões com impacto positivo real 💡
+
+Ao longo do meu percurso académico, desenvolvi um forte interesse por sustentabilidade, políticas públicas e pelo papel que a investigação económica e a análise de dados podem desempenhar no enfrentamento dos desafios globais. 
+
+O meu caminho para gerar impacto começou no primeiro semestre do meu curso de Economia, quando me envolvi na investigação científica 📊🔬. Durante 4 anos, trabalhei em projetos que conectavam investigação socioeconómica, desenvolvimento regional e estruturas de sustentabilidade. 
+
+Uma das experiências mais marcantes foi o apoio ao desenvolvimento de planos socioeconómicos para mais de 25 cidades no Brasil, onde atuei em:
+🤝 Mediação
+📑 Transcrição e organização de dados 
+📊 Análise e interpretação de resultados qualitativos e quantitativos 
+🌐 Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU 
+
+Economia, dados e tecnologia não devem existir isoladamente, mas sim em conjunto, como ferramentas para gerar impacto social e ambiental significativo 💡🌱💻. Foi essa visão que me levou a explorar tecnologia e desenvolvimento web como forma de ampliar soluções.
+
+Após concluir a licenciatura, fiz uma pausa intencional na carreira e viajei por mais de 20 países 🌏. Essa experiência fortaleceu a minha adaptabilidade, capacidade de resolver problemas, tomar decisões mais assertivas, habilidades de comunicação, inteligência interpessoal e liderança 🧩.
+
+Hoje, assim como um esquilo focado na sua noz, quero atuar na interseção entre Economia, Sustentabilidade e Tecnologia para criar e transformar projetos de impacto.
+
+
+SOBRE O GITIGNORE
+Serve para ignorar arquivos dos quais você NÃO deseja fazer o check-in para GitHub.
+Você pode criar um arquivo .gitignore no diretório raiz do repositório para informar o Git de quais arquivos e diretórios devem ser ignorados durante um commit. Para compartilhar as regras de ignorar com outros usuários que clonam o repositório, faça o commit do arquivo .gitignore em seu repositório.
+Para sempre ignorar um determinado arquivo ou diretório, adicione-o a um arquivo chamado ignore que está localizado dentro do diretório ~/.config/git. Por padrão, o Git ignorará todos os arquivos e diretórios listados no arquivo de configuração global ~/.config/git/ignore. Se o diretório git e o arquivo ignore ainda não existirem, talvez seja necessário criá-los.
