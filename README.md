@@ -4,6 +4,11 @@ Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
 - Miguel
+- Nuno Ferreira
+- Rita Silva
+- Filipe Cruz
+- Luana.matos
+
 - Leida
 - (Bárbara Cruz)
 - Paula Guollo

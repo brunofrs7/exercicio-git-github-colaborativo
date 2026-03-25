@@ -1,3 +1,0 @@
-Olá me chamo Pedro 
-
-O GitIgnore serve para - quando fizer o commit - que o sistema saiba quais pastas ou ficheiros devem ser ignorados 

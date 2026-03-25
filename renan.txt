@@ -1,8 +1,0 @@
-Eu sou o Renan.
-
-GitIgnore
-
-Configurar arquivos ignorados para um único repositório:
-
-Você pode criar um arquivo gitignore no diretório raiz do repositório para informar o Git de quais arquivos e diretórios devem ser ignorados durante um commit. Para compartilhar as regras de ignorar com outros usuários que clonam o repositório, faça o commit do arquivo gitignore em seu repositório.
-Fonte: https://docs.github.com/pt/get-started/git-basics/ignoring-files
