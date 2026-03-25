@@ -3,6 +3,8 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
+- Luana.matos
+
 - Leida
 - (Bárbara Cruz)
 - Paula Guollo
