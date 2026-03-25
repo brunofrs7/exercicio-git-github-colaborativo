@@ -1,0 +1,4 @@
+Hey!
+
+
+O ficheiro .gitignore serve para marcar ficheros para nao serem enviados para o git
