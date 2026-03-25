@@ -1,0 +1,7 @@
+Serve para especificar ao Git quais arquivos ou pastas de um projeto devem ser ignorados e não monitorados pelo sistema de controle de versão
+A principal utilidade é manter o repositório limpo, organizado e seguro. 
+Segurança: Evita subir chaves de API, credenciais de banco de dados (.env), senhas ou arquivos sensíveis.
+Organização: Exclui arquivos temporários, logs, pastas de dependências (como node_modules/) ou binários gerados pelo sistema.
+Performance: Acelera o processo de commit e push, pois o Git não precisa verificar milhares de arquivos desnecessários.
+Personalização: Evita o envio de arquivos de configuração do IDE local (como .vscode/ ou .idea/), permitindo que cada desenvolvedor tenha 
+suas próprias configurações. 
