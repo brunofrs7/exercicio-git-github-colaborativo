@@ -3,3 +3,4 @@ Jéssica Amorim, 34 anos, estudante do curso Software Developer do Cesae Porto.
 O .gitignore é um comando usado no Git que serve para dizer informar que ficheiros selecionados não devem ser controlados nem enviados para o repositório.
 comando para utiliza-lo:   git config --global core.excludesfile ~/.gitignore_global
  
+ 
