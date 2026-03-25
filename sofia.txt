@@ -1,0 +1,14 @@
+- Sofia biografia
+
+
+O arquivo .gitignore serve para dizer ao Git quais arquivos ou pastas ele deve ignorar, ou seja, não rastrear nem incluir nos commits.
+Para que isso é útil?
+
+Nem tudo no teu projeto deve ir para o repositório. O .gitignore evita que coisas desnecessárias ou sensíveis sejam versionadas.
+
+Exemplos comuns do que ignorar:
+Arquivos temporários (ex: *.log, *.tmp)
+Pastas de dependências (ex: node_modules/)
+Arquivos de configuração local (ex: .env)
+Builds/compilações (ex: dist/, build/)
+Arquivos do sistema (ex: .DS_Store no macOS)
