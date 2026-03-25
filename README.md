@@ -3,4 +3,7 @@
 Este repositório serve para um exercício de colaboração com Git e GitHub.
 
 ## Participantes
-- (Adicionar o teu nome aqui)
+Rita
+
+gitignore - Especifica que arquivos intencionalmente não rastreados devem ser ignorados
+https://git-scm.com/docs/gitignore
