@@ -1,1 +1,3 @@
 Olá, sou a (maria)paula e ontem vi o Project Hail Mary no cinema. Recomendo. 
+
+Gitignore: "The .gitignore file tells Git which files and folders to ignore (not track)." 
